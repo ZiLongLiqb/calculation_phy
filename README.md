@@ -1,3 +1,3 @@
 # calculation_phy
-homework of calculation of phycics
-这是一个修改
+homework of calculation of phycics.
+I will use this file to complete my phycics homework.
